@@ -1,5 +1,12 @@
 # 🧍🧮📏 IMC Calculator c#
 
+<div align="center">
+  
+![Art](art.gif)
+
+  
+</div> 
+
 
 ## :memo: Descrição
 <p> Este é um simples programa em C# que calcula o Índice de Massa Corporal (IMC) com base no peso e altura informados pelo usuário. Além disso, o programa apresenta uma mensagem indicando a situação do usuário de acordo com o resultado do cálculo do IMC.
