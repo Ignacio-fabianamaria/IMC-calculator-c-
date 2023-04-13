@@ -1,0 +1,15 @@
+/home/faby/Documentos/Cursos-programacao/C#-Fundacao_Bradesco/projeto-imc/bin/Debug/net7.0/projeto-imc
+/home/faby/Documentos/Cursos-programacao/C#-Fundacao_Bradesco/projeto-imc/bin/Debug/net7.0/projeto-imc.deps.json
+/home/faby/Documentos/Cursos-programacao/C#-Fundacao_Bradesco/projeto-imc/bin/Debug/net7.0/projeto-imc.runtimeconfig.json
+/home/faby/Documentos/Cursos-programacao/C#-Fundacao_Bradesco/projeto-imc/bin/Debug/net7.0/projeto-imc.dll
+/home/faby/Documentos/Cursos-programacao/C#-Fundacao_Bradesco/projeto-imc/bin/Debug/net7.0/projeto-imc.pdb
+/home/faby/Documentos/Cursos-programacao/C#-Fundacao_Bradesco/projeto-imc/obj/Debug/net7.0/projeto-imc.csproj.AssemblyReference.cache
+/home/faby/Documentos/Cursos-programacao/C#-Fundacao_Bradesco/projeto-imc/obj/Debug/net7.0/projeto-imc.GeneratedMSBuildEditorConfig.editorconfig
+/home/faby/Documentos/Cursos-programacao/C#-Fundacao_Bradesco/projeto-imc/obj/Debug/net7.0/projeto-imc.AssemblyInfoInputs.cache
+/home/faby/Documentos/Cursos-programacao/C#-Fundacao_Bradesco/projeto-imc/obj/Debug/net7.0/projeto-imc.AssemblyInfo.cs
+/home/faby/Documentos/Cursos-programacao/C#-Fundacao_Bradesco/projeto-imc/obj/Debug/net7.0/projeto-imc.csproj.CoreCompileInputs.cache
+/home/faby/Documentos/Cursos-programacao/C#-Fundacao_Bradesco/projeto-imc/obj/Debug/net7.0/projeto-imc.dll
+/home/faby/Documentos/Cursos-programacao/C#-Fundacao_Bradesco/projeto-imc/obj/Debug/net7.0/refint/projeto-imc.dll
+/home/faby/Documentos/Cursos-programacao/C#-Fundacao_Bradesco/projeto-imc/obj/Debug/net7.0/projeto-imc.pdb
+/home/faby/Documentos/Cursos-programacao/C#-Fundacao_Bradesco/projeto-imc/obj/Debug/net7.0/projeto-imc.genruntimeconfig.cache
+/home/faby/Documentos/Cursos-programacao/C#-Fundacao_Bradesco/projeto-imc/obj/Debug/net7.0/ref/projeto-imc.dll
